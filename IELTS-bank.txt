@@ -1,0 +1,793 @@
+C5-Test 1-Passage 1
+Johnson’s Dictionary
+
+For the century before Johnson’s Dictionary was published in 1775, there had been concern about the state of the English language. There was no standard way of speaking or writing and no agreement as to the best way of bringing some order to the chaos of English spelling. Dr Johnson provided the solution.
+
+There had, of course, been dictionaries in the past, the first of these being a little book of some 120 pages, compiled by a certain Robert Cawdray, published in 1604 under the title A Table Alphabetical’ of hard usual English words’. Like the various dictionaries that came after it during the seventeenth century, Cawdray’s tended to concentrate on ‘scholarly’ words; one function of the dictionary was to enable its student to convey an impression of fine learning.
+
+Beyond the practical need to make order out of chaos, the rise of dictionaries is associated with the rise of the English middle class, who were anxious to define and circumscribe the various worlds to conquer – lexical as well as social and commercial. It is highly appropriate that Dr Samuel Johnson, the very model of an eighteenth-century literary man, as famous in his own time as in ours, should have published his Dictionary at the very beginning of the heyday of the middle class.
+
+Johnson was a poet and critic who raised common sense to the heights of genius. His approach to the problems that had worried writers throughout the late seventeenth and early eighteenth centuries was intensely practical. Up until his time, the task of producing a dictionary on such a large scale had seemed impossible without the establishment of an academy to make decisions about right and wrong usage. Johnson decided he did not need an academy to settle arguments about language; he would do it single-handed. Johnson signed the contract for the Dictionary with the bookseller Robert Dosley at a breakfast held at the Golden Anchor inn near Holborn Bar on 18 June 1764. He was to be paid £1,575 in instalments, and from this he took money to rent 17 Gough Square, in which he set up his ‘dictionary workshop’.
+
+James Boswell, his biographer, described the garret where Johnson worked as ‘fitted up like a counting house’ with a long desk running down the middle at which the copying clerks would work standing up.
+
+Johnson himself was stationed on a rickety chair at an ‘old crazy deal table’ surrounded by a chaos of borrowed books. He was also helped by six assistants, two of whom died whilst the Dictionary was still in preparation.
+
+The work was immense; filling about eighty large notebooks (and without a library to hand). Johnson wrote the definitions of over 40,000 words, and illustrated their many meanings with some 114,000 quotations drawn from English writing on every subject, from the Elizabethans to his own time. He did not expect to achieve complete originality. Working to a deadline, he had to draw on the best of all previous dictionaries, and to make his work one of heroic synthesis. In fact, it was very much more. Unlike his predecessors, Johnson treated English very practically, as a living language, with many different shades of meaning. He adopted his definitions on the principle of English common law – according to precedent. After its publication, his Dictionary was not seriously rivalled for over a century.
+
+After many vicissitudes the Dictionary was finally published on 15 April 1775. It was instantly recognised as a landmark throughout Europe. ‘This very noble work,’ wrote the leading Italian lexicographer, ‘will be a perpetual monument of Fame to the Author; an /honour to his own Country in particular; and a general Benefit to the republic of Letters throughout Europe.’ The fact that Johnson had taken on the Academies of Europe and matched them(everyone knew that forty French academies had taken forty years to produce the first French national dictionary) was cause for much English celebration.
+
+Johnson had worked for nine years, ‘with little assistance of the learned, and without any patronage of the great; not in the soft obscurities of retirement, or under the shelter of academic bowers, but amidst inconvenience and distraction, in sickness and in sorrow’. For all its faults and eccentricities his two-volume work is a masterpiece and a landmark, in his own words, ‘setting the orthography, displaying the analogy, regulating the structures, and ascertaining the significations of English words’. It is the cornerstone of Standard English, an achievement which, in James Boswell’s words, ‘conferred stability on the language of his country.’
+
+The Dictionary, together with his other writing, made Johnson famous and so well esteemed that his friends were able to prevail upon King George III to offer him a pension. From then on, he was to become the Johnson of folklore.
+
+1-3Which THREE of the following statements are true of Johnson’s Dictionary?
+ A. It avoided all scholarly words.
+ B. It was the only English dictionary in general use for 200 years.
+ C. It was famous because of the large number of people involved.
+ D. It focused mainly on language from contemporary texts.
+ E. There was a time limit for its completion.
+ F. It ignored work done by previous dictionary writers.
+ G. It took into account subtleties of meaning.
+ H. Its definitions were famous for their originality.
+Questions 4-7
+Complete the summary.
+Choose NO MORE THAN TWO WORDS from the passage for each answer.
+Write your answers in boxes 4-7 on your answer sheet.
+In 1764 Dr Johnson accepted the contract to produce a dictionary. Having rented a garret, he took on a number of , who stood at a long central desk. Johnson did not have a  available to him, but eventually produced definitions of in excess of 40,000 words written down in 80 large notebooks. On publication, the Dictionary was immediately hailed in many European countries as a landmark. According to his biographer, James Boswell, Johnson’s principal achievement was to bring  to English language. As a reward for his hard work, he was granted a  by the king.
+Questions 8-13
+Do the following statements agree with the information given in Reading Passage 1?
+In boxes 8-13 on your answer sheet, write
+TRUE                 if the statement agrees with the information
+FALSE        if the statement contradicts the information
+NOT GIVEN            if there is no information on this
+8The growing importance of the middle classes led to an increased demand for dictionaries.
+ TRUE
+ FALSE
+ NOT GIVEN
+9Johnson has become more well known since his death.
+ TRUE
+ FALSE
+ NOT GIVEN
+10Johnson had been planning to write a dictionary for several years.
+ TRUE
+ FALSE
+ NOT GIVEN
+11Johnson set up an academy to help with the writing of his Dictionary.
+ TRUE
+ FALSE
+ NOT GIVEN
+12Johnson only received payment for his Dictionary on its completion.
+ TRUE
+ FALSE
+ NOT GIVEN
+13Not all of the assistants survived to see the publication of the Dictionary.
+ TRUE
+ FALSE
+ NOT GIVEN
+
+C5-Test 1-Passage 2
+Nature or Nurture?
+A
+A few years ago, in one of the most fascinating and disturbing experiments in behavioural psychology, Stanley Milgram of Yale University tested 40 subjects from all walks of life for their willingness to obey instructions given by a ‘leader’ in a situation in which the subjects might feel a personal distaste for the actions they were called upon to perform. Specifically, Milgram told each volunteer ‘teacher-subject’ that the experiment was in the noble cause of education, and was designed to test whether or not punishing pupils for their mistakes would have a positive effect on the pupils’ ability to learn.
+B
+Milgram’s experimental set-up involved placing the teacher-subject before a panel of thirty switches with labels ranging from ’15 volts of electricity (slight shock)’ to ‘450 volts(danger – severe shock)’ in steps of 15 volts each. The teacher-subject was told that whenever the pupil gave the wrong answer to a question, a shock was to be administered, beginning at the lowest level and increasing in severity with each successive wrong answer. The supposed ‘pupil’ was in reality an actor hired by Milgram to simulate receiving the shocks by emitting a spectrum of groans, screams and writhings together with an assortment of statements and expletives denouncing both the experiment and the experimenter. Milgram told the teacher-subject to ignore the reactions of the pupil, and to administer whatever level of shock was called for, as per the rule governing the experimental situation of the movement.
+C
+As the experiment unfolded, the pupil would deliberately give the wrong answers to questions posed by the teacher, thereby bringing on various electrical punishments, even up to the danger level of 300 volts and beyond. Many of the teacher-subjects balked at administering the higher levels of punishment, and turned to Milgram with questioning looks and/or complaints about continuing the experiment. In these situations, Milgram calmly explained that the teacher-subject was to ignore the pupil’s cries for mercy and carry on with the experiment. If the subject was still reluctant to proceed, Milgram said that it was important for the sake of the experiment that the procedure be followed through to the end. His final argument was, ‘You have no other choice. You must go on.’ What Milgram was trying to discover was the number of teacher-subjects who would be willing to administer the highest levels of shock, even in the face of strong personal and moral revulsion against the rules and conditions of the experiment.
+D
+Prior to carrying out the experiment, Milgram explained his idea to a group of 39 psychiatrists and asked them to predict the average percentage of people in an ordinary population who would be willing to administer the highest shock level of 450 volts. The overwhelming consensus was that virtually all the teacher-subjects would refuse to obey the experimenter. The psychiatrists felt that ‘most subjects would not go beyond 150 volts’ and they further anticipated that only four per cent would go up to 300 volts. Furthermore, they thought that only a lunatic fringe of about one in 1,000 would give the highest shock of 450 volts.
+E
+What were the actual results? Well, over 60 per cent of the teacher-subjects continued to obey Milgram up to the 450-volt limit! In repetitions of the experiment in other countries, the percentage of obedient teacher-subjects was even higher, reaching 85 per cent in one country. How can we possibly account for this vast discrepancy between what calm, rational, knowledgeable people predict in the comfort of their study and what pressured, flustered, but cooperative ‘teachers’ actually do in the laboratory of real life?
+F
+One’s first inclination might be to argue that there must be some sort of built-in animal aggression instinct that was activated by the experiment, and that Milgram’s teacher-subjects were just following a genetic need to discharge this pent-up primal urge onto the pupil by administering the electrical shock. A modern hard-core sociobiologist might even go so far as to claim that his aggressive instinct evolved as an advantageous trait, having been of survival value to our ancestors in their struggle against the hardships of life on the plains and in the caves, ultimately finding its way into our genetic make-up as a remnant of our ancient animal ways.
+G
+An alternative to this notion of genetic programming is to see the teachers-subjects action as a result of the social environment under which the experiment was carried out. As Milgram himself pointed out, ‘Most subjects in the experiment see their behavior in a larger context that is benevolent and useful to society – the pursuit of scientific truth. The psychological laboratory has a strong claim to legitimacy and evokes trust and confidence in those who perform there. An action such as shocking a victim, which in isolation appears evil, acquires a completely different meaning when placed in this setting.’
+H
+Thus, in this explanation the subject merges his unique personality and personal and moral code with that of larger institutional structures, surrendering individual properties like loyalty, self-sacrifice and discipline to the service of malevolent systems of authority.
+I
+Here we have two radically different explanations for why so many teacher-subjects were willing to forgo their sense of personal responsibility for the sake of an institutional authority figure. The problem for biologists, psychologists and anthropologists is to sort out which of these two polar explanations is more plausible. This, in essence, is the problem of modern sociobiology – to discover the degree to which hard-wired genetic programming dictates, or at least strongly biases, the interaction of animals and humans with their environment, that is, their behaviour. Put another way, sociobiology is concerned with elucidating the biological basis of all behaviour.
+
+Reading Passage 2 has nine paragraphs, A-I.  
+Which paragraph contains the following information?   
+Write the correct letter A-I in boxes 14-19 on your answer sheet.    
+	A	B	C	D	E	F	G	H	I
+14 a biological explanation of the teacher-subjects’ behaviour	 	 	 	 	 	 	 	 	 
+15 the explanation Milgram gave the teacher-subjects for the experiment	 	 	 	 	 	 	 	 	 
+16 the identity of the pupils	 	 	 	 	 	 	 	 	 
+17 the expected statistical outcome	 	 	 	 	 	 	 	 	 
+18 the general aim of sociobiological study	 	 	 	 	 	 	 	 	 
+19 the way Milgram persuaded the teacher-subjects to continue	 	 	 	 	 	 	 	 	 
+Questions 20-22
+Choose the correct letter A, B, C or D.
+Write your answers in boxes 20-22 on your answer sheet.
+20The teacher-subjects were told that they were testing whether
+ a 450-volt shock was dangerous.
+ punishment helps learning.
+ the pupils were honest.
+ they were suited to teaching.
+21The teacher-subjects were instructed to
+ stop when a pupil asked them to.
+ denounce pupils who made mistakes.
+ reduce the shock level after a correct answer.
+ give punishment according to a rule.
+22Before the experiment took place the psychiatrists
+ believed that a shock of 150 volts was too dangerous.
+ failed to agree on how the teacher-subjects would respond to instructions.
+ underestimated the teacher-subjects' willingness to comply with experimental procedure.
+ thought that many of the teacher-subjects would administer a shock of 450 volts.
+Questions 23-26
+Do the following statements agree with the information given in Reading Passage 2?
+In boxes 23-26 on your answer sheet, write
+TRUE                 if the statement agrees with the information
+FALSE        if the statement contradicts the information
+NOT GIVEN             if there is no information on this
+23Several of the subjects were psychology students at Yale University.
+ TRUE
+ FALSE
+ NOT GIVEN
+24Some people may believe that the teacher-subjects’ behaviour could be explained as a positive survival mechanism.
+ TRUE
+ FALSE
+ NOT GIVEN
+25In a sociological explanation, personal values are more powerful than authority.
+ TRUE
+ FALSE
+ NOT GIVEN
+26Milgram’s experiment solves an important question in sociobiology.
+ TRUE
+ FALSE
+ NOT GIVEN
+
+C5-Test 1-Passage 3
+The Truth about the Environment
+For many environmentalists, the world seems to be getting worse. They have developed a hit-list of our main fears: that natural resources are running out; that the population is ever growing, leaving less and less to eat; that species are becoming extinct in vast numbers, and that the planet's air and water are becoming ever more polluted.
+But a quick look at the facts shows a different picture. First, energy and other natural resources have become more abundant, not less so, since the book ‘The Limits to Growth’ was published in 1972 by a group of scientists. Second, more food is now produced per head of the world’s population than at any time in history. Fewer people are starving. Third, although species are indeed becoming extinct, only about 0.7% of them are expected to disappear in the next 50 years, not 25-50%, as has so often been predicted. And finally, most forms of environmental pollution either appear to have been exaggerated, or are transient – associated with the early phases of industrialisation and therefore best cured not by restricting economic growth, but by accelerating it. One form of pollution – the release of greenhouse gases that causes global warming – does appear to be a phenomenon that is going to extend well into our future, but its total impact is unlikely to pose a devastating problem. A bigger problem may well turn out to be an inappropriate response to it.
+Yet opinion polls suggest that many people nurture the belief that environmental standards are declining and four factors seem to cause this disjunction between perception and reality.
+One is the lopsidedness built into scientific research. Scientific funding goes mainly to areas with many problems. That may be wise policy, but it will also create an impression that many more potential problems exist than is the case.
+Secondly, environmental groups need to be noticed by the mass media. They also need to keep the money rolling in. Understandably, perhaps, they sometimes overstate their arguments. In 1997, for example, the World Wide Fund for Nature issued a press release entitled: ‘Two thirds of the world’s forests lost forever’. The truth turns out to be nearer 20%.
+Though these groups are run overwhelmingly by selfless folk, they nevertheless share many of the characteristics of other lobby groups. That would matter less if people applied the same degree of scepticism to environmental lobbying as they do to lobby groups in other fields. A trade organization arguing for, say, weaker pollution control is instantly seen as self-interested. Yet a green organization opposing such a weakening is seen as altruistic, even if an impartial view of the controls in question might suggest they are doing more harm than good.
+A third source of confusion is the attitude of the media. People are clearly more curious about bad news than good. Newspapers and broadcasters are there to provide what the public wants. That, however, can lead to significant distortions of perception. An example was America’s encounter with El Nino in 1997 and 1998. This climatic phenomenon was accused of wrecking tourism, causing allergies, melting the ski-slopes and causing 22 deaths. However, according to an article in the Bulletin of the American Meteorological Society, the damage it did was estimated at US$4 billion but the benefits amounted to some US$19 billion. These came from higher winter temperatures (which saved an estimated 850 lives, reduced heating costs and diminished spring floods caused by meltwaters).
+The fourth factor is poor individual perception. People worry that the endless rise in the amount of stuff everyone throws away will cause the world to run out of places to dispose of waste. Yet, even if America’s trash output continues to rise as it has done in the past, and even if the American population doubles by 2100, all the rubbish America produces through the entire 21st century will still take up only one- 12,000th of the area of the entire United States.
+So what of global warming? As we know, carbon dioxide emissions are causing the planet to warm. The best estimates are that the temperatures will rise by 2-3°C in this century, causing considerable problems, at a total cost of US$5,000 billion.
+Despite the intuition that something drastic needs to be done about such a costly problem, economic analyses clearly show it will be far more expensive to cut carbon dioxide emissions radically than to pay the costs of adaptation to the increased temperatures. A model by one of the main authors of the United Nations Climate Change Panel shows how an expected temperature increase of 2.1 degrees in 2100 would only be diminished to an increase of 1.9 degrees. Or to put it another way, the temperature increase that the planet would have experienced in 2094 would be postponed to 2100.
+So this does not prevent global warming, but merely buys the world six years. Yet the cost of reducing carbon dioxide emissions, for the United States alone, will be higher than the cost of solving the world’s single, most pressing health problem: providing universal access to clean drinking water and sanitation. Such measures would avoid 2 million deaths every year, and prevent half a billion people from becoming seriously ill.
+It is crucial that we look at the facts if we want to make the best possible decisions for the future. It may be costly to be overly optimistic – but more costly still to be too pessimistic.
+
+Questions 27-32
+Do the following statements agree with the claims of the writer in Reading Passage 3?
+In boxes 27-32 on your answer sheet, write
+YES                     if the statement agrees with the writer’s claims
+NO               if the statement contradicts the writer’s claims
+NOT GIVEN             if it is impossible to say what the writer thinks about this
+27Environmentalists take a pessimistic view of the world for a number of reasons.
+ YES
+ NO
+ NOT GIVEN
+28Data on the Earth’s natural resources has only been collected since 1972.
+ YES
+ NO
+ NOT GIVEN
+29The number of starving people in the world has increased in recent years.
+ YES
+ NO
+ NOT GIVEN
+30Extinct species are being replaced by new species.
+ YES
+ NO
+ NOT GIVEN
+31Some pollution problems have been correctly linked to industrialization.
+ YES
+ NO
+ NOT GIVEN
+32It would be best to attempt to slow down economic growth.
+ YES
+ NO
+ NOT GIVEN
+Questions 33-37
+Choose the correct letter, A, B, C or D.
+Write your answers in boxes 33-37 on your answer sheet.
+33What aspect of scientific research does the writer express concern about in paragraph 4?
+ the need to produce results
+ the lack of financial support
+ the selection of areas to research
+ the desire to solve every research problem
+34The writer quotes from the Worldwide Fund for Nature to illustrate how
+ influential the mass media can be.
+ effective environmental groups can be.
+ the mass media can help groups raise funds.
+ environmental groups can exaggerate their claims.
+35What is the writer’s main point about lobby groups in paragraph 6?
+ Some are more active than others.
+ Some are better organized than others.
+ Some receive more criticism than others.
+ Some support more important issues than others.
+36The writer suggests that newspapers print items that are intended to
+ educate readers.
+ meet their readers' expectations.
+ encourage feedback from readers.
+ mislead readers.
+37What does the writer say about America’s waste problem?
+ It will increase in line with population growth.
+ It is not as important as we have been led to believe.
+ It has been reduced through public awareness of the issues.
+ It is only significant in certain areas of the country.
+Questions 38-40
+Complete the summary with the list of words A-I below.
+Write the correct letter A-I in boxes 38-40 on your answer sheet.
+GLOBAL WARMING
+The writer admits that global warming is a 38 38 challenge, but says that it will not have a catastrophic impact on our future, if we deal with it in the 39 39 way. If we try to reduce the levels of greenhouse gases, he believes that it would only have a minimal impact on rising temperatures. He feels it would be better to spend money on the more 40 40 health problem of providing the world’s population with clean drinking water.   
+
+
+
+
+
+
+
+
+C5-Test 2-Passage 1
+BAKELITE
+The birth of modern plastics
+In 1907, Leo Hendrick Baekeland, a Belgian scientist working in New York, discovered and patented a revolutionary new synthetic material. His invention, which he named “Bakelite’, was of enormous technological importance, and effectively launched the modern plastics industry.
+The term ‘plastic’ comes from the Greek plassein, meaning ‘to mould’. Some plastics are derived from natural sources, some are semi-synthetic (the result of chemical action on a natural substance), and some are entirely synthetic, that is, chemically engineered from the constituents of coal or oil. Some are ‘thermoplastic’, which means that, like candlewax, they melt when heated and can then be reshaped. Others are ‘thermosetting’: like eggs, they cannot revert to their original viscous state, and their shape is thus fixed for ever. Bakelite had the distinction of being the first totally synthetic thermosetting plastic.
+The history of today’s plastics begins with the discovery of a series of semi-synthetic thermoplastic materials in the mid-nineteenth century. The impetus behind the development of these early plastics was generated by a number of factors – immense technological progress in the domain of chemistry, coupled with wider cultural changes, and the pragmatic need to find acceptable substitutes for dwindling supplies of ‘luxury’ materials such as tortoiseshell and ivory.
+Baekeland’s interest in plastics began in 1885 when, as a young chemistry student in Belgium, he embarked on research into phenolic resins, the group sticky substances produced when phenol (carbolic acid) combines with an aldehyde ( a volatile fluid similar to alcohol).he soon abandoned the subject, however, only returning to it some years later. By 1905 he was a wealthy New Yorker, having recently made his fortune with the invention of a new photographic paper. While Baekeland had been busily amassing dollars, some advances had been made in the development of plastics. The years 1899 and 1900 had seen the patenting of the first semi-synthetic thermosetting material that could be manufactured on an industrial scale. In purely scientific terms, Baekeland’s major contribution to the field is not so much the actual discovery of the material to which he gave his name, but rather the method by which a reaction between phenol and formaldehyde could be controlled, thus making possible its preparation on a commercial basis. On 13 July 1907, Baekeland took out his famous patent describing this preparation, the essential features of which are still in use today.
+The original patent outlined a three-stage process, in which phenol and formaldehyde (from wood or coal) were initially combined under vacuum inside a large egg-shaped kettle. The result was a resin known as Novalak, which became soluble and malleable when heated. The resin was allowed to cool in shallow trays until it hardened, and then broken up and ground into powder. Other substances were then introduced: including fillers, such as woodflour, asbestos or cotton, ‘which increase strength and moisture resistance, catalysts (substances to speed up the reaction between two chemicals without joining to either) and hexa, a compound of ammonia and formaldehyde which supplied the additional formaldehyde necessary to form a thermosetting resin. This resin was then left to cool and harden, and ground up a second time. The resulting granular powder was raw Bakelite, ready to be made into a vast range of manufactured objects. In the last stage, the heated Bakelite was poured into a hollow mould of the required shape and subjected to extreme heat and pressure, thereby ‘setting’ its form for life.
+The design of Bakelite objects, everything from earrings to television sets, was governed to a large extent by the technical requirements of the moulding process. The object could not be designed so that it was locked into the mould and therefore difficult to extract. A common general rule was that objects should taper towards the deepest part of the mould, and if necessary the product was moulded in separate pieces. Moulds had to be carefully designed so that the molten Bakelite would flow evenly and completely into the mould. Sharp corners proved impractical and were thus avoided, giving rise to the smooth, ‘streamlined’ style popular in the 1930s. The thickness of the walls of the mould was also crucial: thick walls took longer to cool and harden, a factor which had to be considered by the designer in order to make the most efficient use of machines.
+Baekeland’s invention, although treated with disdain in its early years, went on to enjoy an unparalleled popularity which lasted throughout the first half of the twentieth century. It became the wonder product of the new world of industrial expansion – ‘the material of a thousand uses’. Being both non-porous and heat-resistant, Bakelite kitchen goods were promoted as being germ-free and sterilisable. Electrical manufacturers seized on its insulating properties, and consumers everywhere relished its dazzling array of shades, delighted that they were now, at last, no longer restricted to the wood tones and drab browns of the pre-plastic era. It then fell from favour again during the 1950s, and was despised and destroyed in vast quantities. Recently, however, it has been experiencing something of a renaissance, with renewed demand for original Bakelite objects in the collectors’ marketplace, and museums, societies and dedicated individuals once again appreciating the style and originality of this innovative material.
+
+
+Questions 1-3
+Complete the summary.
+Choose ONE WORD ONLY from the passage for each answer.
+Write your answers in boxes 1-3 on your answer sheet.
+Some plastics behave in a similar way to  in that they melt under heat and can be moulded into new forms. Bakelite was unique because it was the first material to be both entirely      in origin, and thermosetting.
+There were several reasons for the research into plastics in the nineteenth century, among them the great advances that had been made in the field of  and the search for alternatives to natural resources like ivory.
+Questions 4-8
+Complete the flow-chart.
+Choose ONE WORD ONLY from the passage for each answer.
+Write your answers in boxes 4-8 on your answer sheet.
+Questions 9 and 10
+Choose TWO letters A-E.
+Write your answers in boxes 9 and 10 on your answer sheet.
+NB Your answers may be given in either order.
+Which TWO of the following factors influencing the design of Bakelite objects are mentioned in the text?    
+9-10Which TWO of the following factors influencing the design of Bakelite objects are mentioned in the text?
+ A. the function which the object would serve
+ B. the ease with which the resin could fill the mould
+ C. the facility with which the object could be removed from the mould
+ D. the limitations of the materials used to manufacture the mould
+ E. the fashionable styles of the period
+Questions 11-13
+Do the following statements agree with the information given in Reading Passage 1?
+In boxes 11-13 on your answer sheet, write
+TRUE                 if the statement agrees with the information
+FALSE        if the statement contradicts the information
+NOT GIVEN             if there is no information on this
+11Modern-day plastic preparation is based on the same principles as that patented in 1907.
+ TRUE
+ FALSE
+ NOT GIVEN
+12Bakelite was immediately welcomed as a practical and versatile material.
+ TRUE
+ FALSE
+ NOT GIVEN
+13Bakelite was only available in a limited range of colours.
+ TRUE
+ FALSE
+ NOT GIVEN
+C5-Test 2-Passage 2
+What’s so funny?
+John McCrone reviews recent research on humour
+The joke comes over the headphones: \Which side of a dog has the most hair? The left.’ No, not funny. try again. ‘Which side of a dog has the most hair? The outside.’ Hah! The punchline is silly yet fitting, tempting a smile, even a laugh. Laughter has always struck people as deeply mysterious, perhaps pointless. The writer Arthur Koestler dubbed it the luxury reflex: ‘unique in that it serves no apparent biological purpose’.
+Theories about humour have an ancient pedigree. Plato expressed the idea that humour is simply a delighted feeling of superiority over others. Kant and Freud felt that joke-telling relies on building up a psychic tension which is safely punctured by the ludicrousness of the punchline. But most modern humour theorists have settled on some version of Aristotle’s belief that jokes are based on a reaction to or resolution of incongruity, when the punchline is either a nonsense or, though appearing silly, has a clever second meaning.
+Graeme Ritchie, a computational linguist in Edinburgh, studies the linguistic structure of jokes in order to understand not only humour but language understanding and reasoning in machines. He says that while there is no single format for jokes, many revolve around a sudden and surprising conceptual shift. A comedian will present a situation followed by an unexpected interpretation that is also apt.
+So even if a punchline sounds silly, the listener can see there is a clever semantic fit and that sudden mental ‘Aha!’ is the buzz that makes us laugh. Viewed from this angle, humour is just a form of creative insight, a sudden leap to a new perspective.
+However, there is another type of laughter, the laughter of social appeasement and it is important to understand this too. Play is a crucial part of development in most young mammals. Rats produce ultrasonic squeaks to prevent their scuffles turning nasty. Chimpanzees have a ‘play-face’ – a gaping expression accompanied by a panting ‘ah, ah’ noise. In humans, these signals have mutated into smiles and laughs. Researchers believe social situations, rather than cognitive events such as jokes, trigger these instinctual markers of play or appeasement. People laugh on fairground rides or when tickled to flag a play situation, whether they feel amused or not.
+Both social and cognitive types of laughter tap into the same expressive machinery in our brains, the emotion and motor circuits that produce smiles and excited vocalisations. However, if cognitive laughter is the product of more general thought processes, it should result from more expansive brain activity.
+Psychologist Vinod Goel investigated humour using the new technique of ‘single event’ functional magnetic resonance imaging (fMRI). An MRI scanner uses magnetic fields and radio waves to track the changes in oxygenated blood that accompany mental activity. Until recently, MRI scanners needed several minutes of activity and so could not be used to track rapid thought processes such as comprehending a joke. New developments now allow half-second ‘snapshots’ of all sorts reasoning and problem-solving activities.
+Although Goel felt being inside a brain scanner was hardly the ideal place for appreciating a joke, he found evidence that understanding a joke involves a widespread mental shift. His scans showed that at the beginning of a joke the listener’s prefrontal cortex lit up, particularly the right prefrontal believed to be critical for problem solving. But there was also activity in the temporal lobes at the side of the head (consistent with attempts to rouse stored knowledge) and in many other brain areas. Then when the punchline arrived, a new area sprang to life – the orbital prefrontal cortex. This patch of brain tucked behind the orbits of the eyes is associated with evaluating information.
+Making a rapid emotional assessment of the events of the moment is an extremely demanding job for the brain, animal or human. Energy and arousal levels may need to be returned in the blink of an eye. These abrupt changes will produce either positive or negative feelings. The orbital cortex, the region that becomes active in Goel’s experiment, seems the best candidate for the site that feeds such feelings into higher-level thought processes, with its close connections to the brain’s sub-cortical arousal apparatus and centres of metabolic control.
+All warm-blooded animals make constant tiny adjustments in arousal in response to external events, but humans, who have developed a much more complicated internal life as a result of language, respond emotionally not only to their surroundings, but to their own thoughts. Whenever a sought-for answer snaps into place, there is a shudder of pleased recognition. Creative discovery being pleasurable, humans have learned to find ways of milking this natural response. The fact that jokes tap into our general evaluative machinery explains why the line between funny and disgusting, or funny and frightening, can be so fine. Whether a joke gives pleasure or pain depends on a person’s outlook.
+Humour may be a luxury, but the mechanism behind it is no evolutionary accident, As Peter Derks, a psychologist at William and Mary College in Virginia, says: ‘I like to think of humour as the distorted mirror of the mind. It’s creative, perceptual, analytical and lingual. If we can figure out how the mind processes humour, then we’ll have a pretty good handle on how it works in general.’
+Questions 14-20
+Do the following statements agree with the information given in Reading Passage 2?
+In boxes 14-20 on your answer sheet, write
+TRUE                 if the statement agrees with the information
+FALSE        if the statement contradicts the information
+NOT GIVEN             if there is no information on this
+14Arthur Koestler considered laughter biologically important in several ways.
+ TRUE
+ FALSE
+ NOT GIVEN
+15Plato believed humour to be a sign of above-average intelligence.
+ TRUE
+ FALSE
+ NOT GIVEN
+16Kant believed that a successful joke involves the controlled release of nervous energy.
+ TRUE
+ FALSE
+ NOT GIVEN
+17Current thinking on humour has largely ignored Aristotle’s view on the subject.
+ TRUE
+ FALSE
+ NOT GIVEN
+18Graeme Ritchie’s work links jokes to artificial intelligence.
+ TRUE
+ FALSE
+ NOT GIVEN
+19Most comedians use personal situations as a source of humour.
+ TRUE
+ FALSE
+ NOT GIVEN
+20Chimpanzees make particular noises when they are playing.
+ TRUE
+ FALSE
+ NOT GIVEN
+Questions 21-23
+The diagram below shows the areas of the brain activated by jokes.
+Label the diagram.
+Choose NO MORE THAN TWO WORDS from the passage for each answer.
+Write your answers in boxes 21-23 on your answer sheet.
+Questions 24-27
+Complete each sentence with the correct ending A-G below.
+Write (drag) the correct letter A-G in boxes 24-27 on your answer sheet.
+24  One of the brain’s most difficult tasks is to   24   
+25  Because of the language they have developed, humans   25   
+26  Individual responses to humour   26   
+27  Peter Derks believes that humour 
+
+C5-Test 2-Passage 3
+The Birth of Scientific English
+World science is dominated today by a small number of languages, including Japanese, German and French, but it is English which is probably the most popular global language of science. This is not just because of the importance of English-speaking countries such as the USA in scientific research; the scientists of many non-English-speaking countries find that they need to write their research papers in English to reach a wide international audience. Given the prominence of scientific English today, it may seem surprising that no one really knew how to write science in English before the 17th century. Before that, Latin was regarded as the lingua franca for European intellectuals.
+The European Renaissance (c. 14th-16th century) is sometimes called the ‘revival of learning’, a time of renewed interest in the lost knowledge’ of classical times. At the same time, however, scholars also began to test and extend this knowledge. The emergent nation state of Europe developed competitive interests in world exploration and the development of trade. Such expansion, which was to take the English language west to America and east to India, was supported by scientific developments such as the discovery of magnetism (and hence the invention of the compass), improvements in cartography and – perhaps the most important scientific revolution of them all – the new theories of astronomy and the movement of the Earth in relation to the planets and stars, developed by Copernicus (1473-1543).
+England was one of the first countries where scientists adopted and publicized Copernican ideas with enthusiasm. Some of these scholars, including two with interests in language – John Wallis and John Wilkins – helped found the Royal Society in 1660 in order to promote empirical scientific research.
+Across Europe similar academies and societies arose, creating new national traditions of science. In the initial stages of the scientific revolution, most publications in the national languages were popular works, encyclopaedias, educational textbooks and translations. Original science was not done in English until the second half of the 17th century. For example, Newton published his mathematical treatise, known as the Principia, in Latin, but published his later work on the properties of light – Opticks – in English.
+There were several reasons why original science continued to be written in Latin. The first was simply a matter of audience. Latin was suitable for an international audience of scholars, whereas English reached a socially wider, but more local, audience. Hence, popular science was written in English.
+A second reason for writing in Latin may, perversely, have been a concern for secrecy. Open publication had dangers in putting into the public domain preliminary ideas which had not yet been fully exploited by their ‘author’. This growing concern about intellectual property rights was a feature of the period – it reflected both the humanist notion of the individual, rational scientist who invents and discovers through private intellectual labour, and the growing connection between original science and commercial exploitation. There was something of a social distinction between ‘scholars and gentlemen’ who understood Latin, and men of trade who lacked a classical education. And in the mid-17th century it was common practice for mathematicians to keep their discoveries and proofs secret, by writing them in cipher, in obscure languages, or in private messages deposited in a sealed box with the Royal Society. Some scientists might have felt more comfortable with Latin precisely because its audience, though international, was socially restricted. Doctors clung the most keenly to Latin as an ‘insider language’.
+A third reason why the writing of original science in English was delayed may have been to do with the linguistic inadequacy of English in the early modern period. English was not well equipped to deal with scientific argument. First, it lacked the necessary technical vocabulary. Second, it lacked the grammatical resources required to represent the world in an objective and impersonal way, and to discuss the relations, such as cause and effect, that might hold between complex and hypothetical entities.
+Fortunately, several members of the Royal Society possessed an interest in language and became engaged in various linguistic projects. Although a proposal in 1664 to establish a committee for improving the English language came to little, the society’s members did a great deal to foster the publication of science in English and to encourage the development of a suitable writing style. Many members of the Royal Society also published monographs in English. One of the first was by Robert Hooke, the society’s first curator of experiments, who described his experiments with microscopes in Micrographia (1665). This work is largely narrative in style, based on a transcript of oral demonstrations and lectures.
+In 1665 a new scientific journal, Philosophical Transactions, was inaugurated. Perhaps the first international English-language scientific journal, it encouraged a new genre of scientific writing, that of short, focused accounts of particular experiments.
+The 17th century was thus a formative period in the establishment of scientific English. In the following century much of this momentum was lost as German established itself as the leading European language of science. It is estimated that by the end of the 18th century 401 German scientific journals had been established as opposed to 96 in France and 50 in England. However, in the 19th century scientific English again enjoyed substantial lexical growth as the industrial revolution created the need for new technical vocabulary, and new, specialised, professional societies were instituted to promote and publish in the new disciplines.
+Questions 28-34
+Complete the summary.
+Choose NO MORE THAN TWO WORDS from the passage for each answer.
+Write your answers in boxes 28-34 on your answer sheet.
+In Europe, modern science emerged at the same time as the nation state. At first, the scientific language of choice remained  It allowed scientists to communicate with other socially privileged thinkers while protecting their work from unwanted exploitation. Sometimes the desire to protect ideas seems to have been stronger than the desire to communicate them, particularly in the case of mathematicians and    
+In Britain, moreover, scientists worried that English had neither the  nor the  to express their ideas. This situation only changed after 1660 when scientists associated with the     set about developing English. An early scientific journal fostered a new kind of writing based on short descriptions of specific experiments. Although English was then overtaken by  , it developed again in the 19th century as a direct result of the    
+
+Questions 35-37
+Do the following statements agree with the information given in Reading Passage 3?
+In boxes 35-37 on your answer sheet, write
+TRUE                 if the statement agrees with the information
+FALSE        if the statement contradicts the information
+NOT GIVEN             if there is no information on this
+35There was strong competition between scientists in Renaissance Europe.
+ TRUE
+ FALSE
+ NOT GIVEN
+36The most important scientific development of the Renaissance period was the discovery of magnetism.
+ TRUE
+ FALSE
+ NOT GIVEN
+37In 17th-century Britain, leading thinkers combined their interest in science with an interest in how to express ideas.
+ TRUE
+ FALSE
+ NOT GIVEN
+Questions 38-40
+Complete the table.
+Choose NO MORE THAN TWO WORDS from the passage for each answer.
+Write your answers in boxes 38-40 on your answer sheet.
+Science written in the first half of the 17th century
+Language used	Latin	English
+Type of science	Original	    38
+Examples	   39	Encyclopaedias
+Target audience	International scholars	 40 , but socially wider
+
+
+
+
+C5-Test 3-Passage 1
+Early Childhood Education
+New Zealand’s National Party spokesman on education, Dr. Lockwood Smith, recently visited the US and Britain. Here he reports on the findings of his trip and what they could mean for New Zealand’s education policy
+A‘Education To Be More’ was published last August. It was the report of the New Zealand Government’s Early Childhood Care and Education Working Group. The report argued for enhanced equity of access and better funding for childcare and early childhood education institutions. Unquestionably, that’s a real need; but since parents don’t normally send children to pre-schools until the age of three, are we missing out on the most important years of all?
+B A 13-year study of early childhood development at Harvard University has shown that, by the age of three, most children have the potential to understand about 1000 words – most of the language they will use in ordinary conversation for the rest of their lives.
+Furthermore, research has shown that while every child is born with a natural curiosity, it can be suppressed dramatically during the second and third years of life. Researchers claim that the human personality is formed during the first two years of life, and during the first three years children learn the basic skills they will use in all their later learning both at home and at school. Once over the age of three, children continue to expand on existing knowledge of the world.
+C It is generally acknowledged that young people from poorer socio-economic backgrounds tend to do less well in our education system. That’s observed not just in New Zealand, but also in Australia, Britain and America. In an attempt to overcome that educational under-achievement, a nationwide programme called ‘Headstart’ was launched in the United Sates in 1965. A lot of money was poured into it. It took children into pre-school institutions at the age of three and was supposed to help the children of poorer families succeed in school.
+Despite substantial funding, results have been disappointing. It is thought that there are two explanations for this. First, the programme began too late. Many children who entered it at the age of three were already behind their peers in language and measurable intelligence. Second, the parents were not involved. At the end of each day, ‘Headstart’ children returned to the same disadvantaged home environment.
+D As a result of the growing research evidence of the importance of the first three years of a child’s life and the disappointing results from ‘Headstart’, a pilot programme was launched in Missouri in the US that focused on parents as the child’s first teachers. The ‘Missouri’ programme was predicated on research showing that working with the family, rather than bypassing the parents, is the most effective way of helping children get off to the best possible start in life. The four-year pilot study included 380 families who were about to have their first child and who represented a cross-section of socio-economic status, age and family configurations. They included single-parent and two-parent families, families in which both parents worked, and families with either the mother or father at home.
+The programme involved trained parent-educators visiting the parents’ home and working with the parent, or parents, and the child. Information on child development, and guidance on things to look for and expect as the child grows were provided, plus guidance in fostering the child’s intellectual, language, social and motor-skill development. Periodic check-ups of the child’s educational and sensory development (hearing and vision) were made to detect possible handicaps that interfere with growth and development. Medical problems were referred to professionals.
+Parent-educators made personal visits to homes and monthly group meetings were held with other new parents to share experience and discuss topics of interest. Parent resource centres, located in school buildings, offered learning materials for families and facilitators for child care.
+E At the age of three, the children who had been involved in the ‘Missouri’ programme were evaluated alongside a cross-section of children selected from the same range of socio-economic backgrounds and family situation, and also a random sample of children that age. The results were phenomenal. By the age of three, the children in the programme were significantly more advanced in language development than their peers, had made greater strides in problem solving and other intellectual skills, and were further along in social development. In fact, the average child on the programme was performing at the level of the top 15 to 20 per cent of their peers in such things as auditory comprehension, verbal ability and language ability.
+Most important of all, the traditional measures of ‘risk’, such as parents’ age and education, or whether they were a single parent, bore little or no relationship to the measures of achievement and language development. Children in the programme performed equally well regardless of socio-economic disadvantages. Child abuse was virtually eliminated. The one factor that was found to affect the child’s development was family stress leading to a poor quality of parent-child interaction. That interaction was not necessarily bad in poorer families.
+F These research findings are exciting. There is growing evidence in New Zealand that children from poorer socio-economic backgrounds are arriving at school less well developed and that our school system tends to perpetuate that disadvantage. The initiative outlined above could break that cycle of disadvantage. the concept of working with parents in their homes, or at their place of work, contrasts quite markedly with the report of the Early Childhood Care and Education Working Group. Their focus is on getting children and mothers access to childcare and institutionalised early childhood education. Education from the age of three to five is undoubtedly vital, but without a similar focus on parent education and on the vital importance of the first three years, some evidence indicates that it will not be enough to overcome educational inequity.
+Questions 1-4
+Reading Passage 1 has six sections, A-F.  
+Which paragraph contains the following information?  
+Write (drag) the correct letter A-F in boxes 1-4 on your answer sheet.
+	A	B	C	D	E	F
+1 details of the range of family types involved in an education programme	 	 	 	 	 	 
+2 reasons why a child’s early years are so important	 	 	 	 	 	 
+3 reasons why an education programme failed	 	 	 	 	 	 
+4 a description of the positive outcomes of an education programme	 	 	 	 	 	 
+Question 5-10
+Classify the following features as characterising    
+ 
+Write the correct letter A, B, C or D in boxes 5-10 on your answer sheet.   
+5  was administered to a variety of poor and wealthy families   5   
+6  continued with follow-up assistance in elementary schools   6   
+7  did not succeed in its aim   7   
+8  supplied many forms of support and training to parents   8   
+9  received insufficient funding   9   
+10  was designed to improve pre-schoolers’ educational development   10   
+A   the 'Headstart' programme
+B   the 'Missouri' programme
+C   both the 'Headstart' and the 'Missouri' programmes
+D   neither the 'Headstart' nor the 'Missouri' programme
+Questions 11-13
+Do the following statements agree with the information given in Reading Passage 1?
+In boxes 11-13 on your answer sheet, write
+TRUE                 if the statement agrees with the information
+FALSE        if the statement contradicts the information
+NOT GIVEN             if there is no information on this
+11Most ‘Missouri’ programme three-year-olds scored highly in areas such as listening, speaking, reasoning and interacting with others.
+ TRUE
+ FALSE
+ NOT GIVEN
+12‘Missouri’ programme children of young, uneducated, single parents scored less highly on the tests.
+ TRUE
+ FALSE
+ NOT GIVEN
+13The richer families in the ‘Missouri’ programme had higher stress levels.
+ TRUE
+ FALSE
+ NOT GIVEN
+
+C5-Test 3-Passage 2
+Disappearing Delta
+A
+The fertile land of the Nile delta is being eroded along Egypt’s Mediterranean coast at an astounding rate, in some parts estimated at 100 metres per year. In the past, land scoured away from the coastline by the currents of the Mediterranean Sea used to be replaced by sediment brought down to the delta by the River Nile, but this is no longer happening.
+B
+Up to now, people have blamed this loss of delta land on the two large dams at Aswan in the south of Egypt, which hold back virtually all of the sediment that used to flow down the river. Before the dams were built, the Nile flowed freely, carrying huge quantities of sediment north from Africa’s interior to be deposited on the Nile delta. This continued for 7,000 years, eventually covering a region of over 22,000 square kilometers with layers of fertile silt. Annual flooding brought in new, nutrient-rich soil to the delta region, replacing what had been washed away by the sea, and dispensing with the need for fertilizers in Egypt’s richest food-growing area. But when the Aswan dams were constructed in the 20th century to provide electricity and irrigation, and to protect the huge population centre of Cairo and its surrounding areas from annual flooding and drought, most of the sediment with its natural fertilizer accumulated up above the dam in the southern, upstream half of Lake Nasser, instead of passing down to the delta.
+C
+Now, however, there turns out to be more to the story. It appears that the sediment-free water emerging from the Aswan dams picks up silt and sand as it erodes the river bed and banks on the 800-kilometre trip to Cairo. Daniel Jean Stanley of the Smithsonian Institute noticed that water samples taken in Cairo, just before the river enters the delta, indicated that the river sometimes carries more than 850 grams of sediment per cubic metre of water – almost half of what it carried before the dams were built. ‘I’m ashamed to say that the significance of this didn’t strike me until after I had read 50 or 60 studies,’ says Stanley in Marine Geology. ‘There is still a lot of sediment coming into the delta, but virtually no sediment comes out into the Mediterranean to replenish the coastline. So this sediment must be trapped on the delta itself.’
+D
+Once north of Cairo, most of the Nile water is diverted into more than 10,000 kilometres of irrigation canals and only a small proportion reaches the sea directly through the rivers in the delta. The water in the irrigation canals is still or very slow-moving and thus cannot carry sediment, Stanley explains. The sediment sinks to the bottom of the canals and then is added to fields by farmers or pumped with the water into the four large freshwater lagoons that are located near the outer edges of the delta. So very little of it actually reaches the coastline to replace what is being washed away by the Mediterranean currents.
+E
+The farms on the delta plains and fishing and aquaculture in the lagoons account for much of Egypt’s food supply. But by the time the sediment has come to rest in the fields and lagoons it is laden with municipal, industrial and agricultural waste from the Cairo region, which is home to more than 40 million people. ‘Pollutants are building up faster and faster,’ says Stanley.
+ 
+ 
+Based on his investigations of sediment from the delta lagoons, Frederic Siegel of George Washington University concurs. ‘In Manzalah Lagoon, for example, the increase in mercury, lead, copper and zinc coincided with the building of the High Dam at Aswan, the availability of cheap electricity, and the development of major power-based industries,’ he says. since that time the concentration of mercury has increased significantly. Lead from engines that use leaded fuels and from other industrial sources has also increased dramatically. These poisons can easily enter the food chain, affecting the productivity of fishing and farming. Another problem is that agricultural wastes include fertilizers which stimulate increases in plant growth in the lagoons and upset the ecology of the area, with serious effects on the fishing industry.
+F
+According to Siegel, international environmental organizations are beginning to pay closer attention to the region, partly because of the problems of erosion and pollution of the Nile delta, but principally because they fear the impact this situation could have on the whole Mediterranean coastal ecosystem. But there are no easy solutions. In the immediate future, Stanley believes that one solution would be to make artificial floods to flush out the delta waterways, in the same way that natural floods did before the construction of the dams. He says, however, that in the long term an alternative process such as desalination may have to be used to increase the amount of water available. ‘In my view, Egypt must devise a way to have more water running through the river and the delta,’ says Stanley. Easier said than done in a desert region with a rapidly growing population.
+Questions 14-17
+Reading Passage 2 has six paragraphs, A-F.
+Choose the correct heading for paragraphs B and D-F from the list of headings below.
+Write the correct number i-vii in boxes 14-17 on your answer sheet.    
+ 
+Example  Paragraph A       Answer  vii   
+
+14       Paragraph B   14   
+
+Example  Paragraph C       Answer  vi  
+
+15          Paragraph D   15   
+
+16          Paragraph E   16   
+
+17          Paragraph F   17   
+I   Effects of irrigation on sedimentation
+II   The danger of flooding the Cairo area
+III   Causing pollution in the Mediterranean
+IV   Interrupting a natural process
+V   The threat to food production
+VI   Less valuable sediment than before
+VII   Egypt's disappearing coastline
+VIII   Looking at the long-term impact
+Questions 18-23
+Do the following statements reflect the claims of the writer in Reading Passage 2?
+In boxes 18-23 on your answer sheet, write
+YES                     if the statement reflects the claims of the writer
+NO               if the statement contradicts the claims of the writer
+NOT GIVEN             if it is impossible to say what the writer thinks about this
+18Coastal erosion occurred along Egypt’s Mediterranean coast before the building of the Aswan dams.
+ YES
+ NO
+ NOT GIVEN
+19Some people predicted that the Aswan dams would cause land loss before they were built.
+ YES
+ NO
+ NOT GIVEN
+20The Aswan dams were built to increase the fertility of the Nile delta.
+ YES
+ NO
+ NOT GIVEN
+21Stanley found that the levels of sediment in the river water in Cairo were relatively high.
+ YES
+ NO
+ NOT GIVEN
+22Sediment in the irrigation canals on the Nile delta causes flooding.
+ YES
+ NO
+ NOT GIVEN
+23Water is pumped from the irrigation canals into the lagoons.
+ YES
+ NO
+ NOT GIVEN
+Questions 24-26
+Complete the summary of paragraphs E and F with the list of words A-H below.
+Write the correct letter A-H in boxes 24-26 on your answer sheet.
+In addition to the problem of coastal erosion, there has been a marked increase in the level of 24 24 contained in the silt deposited in the Nile delta. To deal with this, Stanley suggests the use of  2525 in the short term, and increasing the amount of water available through 26 26 in the longer term.
+
+C5-Test 3-Passage 3
+The Return of Artificial Intelligence
+It is becoming acceptable again to talk of computers performing human tasks such as problem-solving and pattern-recognition
+A  After years in the wilderness, the term ‘artificial intelligence’ (AI) seems poised to make a comeback. AI was big in the 1980s but vanished in the 1990s. It re-entered public consciousness with the release of AI, a movie about a robot boy. This has ignited public debate about AI, but the term is also being used once more within the computer industry. Researchers, executives and marketing people are now using the expression without irony or inverted commas. And it is not always hype. The term is being applied, with some justification, to products that depend on technology that was originally developed by AI researchers. Admittedly, the rehabilitation of the term has long way to go, and some firms still prefer to avoid using it. But the fact that others are starting to use it again suggests that AI has moved on from being seen as an overambitious and under-achieving field of research.
+B  The field was launched, and the term ‘artificial intelligence’ coined, at a conference in 1956 by a group of researchers that included Marvin Minsky, John McCarthy, Herbert Simon and Alan Newell, all of whom went on to become leading figures in the field. The expression provided an attractive but informative name of a research programme that encompassed such previously disparate fields as operations research, cybernetics, logic and computer science. The goal they shared was an attempt to capture or mimic human abilities using machines. The said, different groups of researchers attacked different problems, from speech recognition to chess playing, in different ways; AI unified the field in name only. But it was a term that captured the public imagination.
+C  Most researchers agree that AI peaked around 1985. A public reared on science-fiction movies and excited by the growing power of computers had high expectations. For years, AI researchers had implied that a breakthrough was just around the corner. Marvin Minsky said in 1967 that within a generation the problem of creating ‘artificial intelligence’ would be substantially solved. Prototypes of medical-diagnosis programs and speech recognition software appeared to be making progress. It proved to be a false dawn. Thinking computers and household robots failed to materialise, and a backlash ensued, ‘There was undue optimism in the early 1980s,’ says David Leake, a researcher at Indiana University. ‘Then when people realized these were hard problems, there was retrenchment. By the late 1980s, the term AI was being avoided by many researchers, who opted instead to align themselves with specific sub-disciplines such as neural networks, agent technology, case-based reasoning, and so on.’
+D  Ironically, in some ways AI was a victim of its own success. Whenever an apparently mundane problem was solved, such as building a system that could land an aircraft unattended, the problem was deemed not to have been AI in the first place. ‘If it works, it can’t be AI.’ as Dr Leake characterizes it. The effect of repeatedly moving the goal-posts in this way was that AI came to refer to ‘blue-sky’ research that was still years away from commercialization. Researchers joked that AI stood for ‘almost implemented’. Meanwhile, the technologies that made it onto the market, such as speech recognition, language translation and decision-support software, were no longer regarded as AI. Yet all three once fell well within the umbrella of AI research.
+E  But the tide may now be turning, according to Dr Leake, HNC Software of San Diego, backed by a government agency, reckon that their new approach to artificial intelligence is the most powerful and promising approach ever discovered. HNC claim that their system, based on a cluster of 30 processors, could be used to spot camouflaged vehicles on a battlefield or extract a voice signal from a noisy background – tasks humans can do well, but computers cannot. ‘Whether or not their technology lives up to the claims made for it, the fact that HNC are emphasizing the use of AI is itself an interesting development,’ says Dr Leake.
+F  Another factor that may boost the prospects for AI in the near future is that investors are now looking for firms using clever technology, rather than just a clever business model, to differentiate themselves. In particular, the problem of information overload, exacerbated by the growth of e-mail and the explosion in the number of web pages, means there are plenty of opportunities for new technologies to help filter and categorise information – classic AI problems. That may mean that more artificial intelligence companies will start to emerge to meet this challenge.
+G  The 1969 film, 2001: A Space Odyssey, featured an intelligent computer called HAL 9000. As well as understanding and speaking English, HAL could play chess and even learned to lipread. HAL thus encapsulated the optimism of the 1960s that intelligent computers would be widespread by 2001. But 2001 has been and gone, and there is still no sign of a HAL-like computer. Individual systems can play chess or transcribe speech, but a general theory of machine intelligence still remains elusive. It may be, however, that the comparison with HAL no longer seems quite so important, and AI can now be judged by what it can do, rather than by how well it matches up to a 30-year-old science-fiction film. ‘People are beginning to realise that there are impressive things that these systems can do,’ says Dr Leake hopefully.
+Questions 27-31
+Reading Passage 3 has seven paragraphs, A-G.  
+Which paragraph contains the following information?  
+Write the correct letter A-G in boxes 27-31 on your answer sheet.
+NB You may use any letter more than once.    
+	A	B	C	D	E	F	G
+27 how AI might have a military impact	 	 	 	 	 	 	 
+28 the fact that AI brings together a range of separate research areas	 	 	 	 	 	 	 
+29 the reason why AI has become a common topic of conversation again	 	 	 	 	 	 	 
+30 how AI could help deal with difficulties related to the amount of information available electronically	 	 	 	 	 	 	 
+31 where the expression AI was first used	 	 	 	 	 	 	 
+Questions 32-37
+Do the following statements agree with the information given in Reading Passage 3?
+In boxes 32-37 on your answer sheet, write
+TRUE                 if the statement agrees with the information
+FALSE        if the statement contradicts the information
+NOT GIVEN             if there is no information about this
+32The researchers who launched the field of AI had worked together on other projects in the past.
+ TRUE
+ FALSE
+ NOT GIVEN
+33In 1985, AI was at its lowest point.
+ TRUE
+ FALSE
+ NOT GIVEN
+34Research into agent technology was more costly than research into neural networks.
+ TRUE
+ FALSE
+ NOT GIVEN
+35Applications of AI have already had a degree of success.
+ TRUE
+ FALSE
+ NOT GIVEN
+36The problems waiting to be solved by AI have not changed since 1967.
+ TRUE
+ FALSE
+ NOT GIVEN
+37The film 2001: A space Odyssey reflected contemporary ideas about the potential of AI computers.
+ TRUE
+ FALSE
+ NOT GIVEN
+Questions 38-40
+Choose the correct letter A, B, C or D.
+Write your answers in boxes 38-40 on your answer sheet.
+38According to researchers, in the late 1980s there was a feeling that
+ a general theory of AI would never be developed.
+ original expectations of AI may not have been justified.
+ a wide range of applications was close to fruition.
+ more powerful computers were the key to further progress.
+39In Dr Leake’s opinion, the reputation of AI suffered as a result of
+ changing perceptions.
+ premature implementation.
+ poorly planned projects.
+ commercial pressures.
+40The prospects for AI may benefit from
+ existing AI applications.
+ new business models.
+ orders from internet-only companies.
+ new investment priorities.
+
+C5-Test 4-Passage 1
+The Impact of Wilderness Tourism
+A
+The market for tourism in remote areas is booming as never before. Countries all across the world are actively promoting their ‘wilderness’ regions – such as mountains, Arctic lands, deserts, small islands and wetlands – to high-spending tourists. The attraction of these areas is obvious: by definition, wilderness tourism requires little or no initial investment. But that does not mean that there is no cost. As the 1992 United Nations Conference on Environment and Development recognized, these regions are fragile (i.e. highly vulnerable to abnormal pressures) not just in terms of their ecology, but also in terms of the culture of their inhabitants. The three most significant types of fragile environment in these respects, and also in terms of the proportion of the Earth’s surface they cover, are deserts, mountains and Arctic areas. An important characteristic is their marked seasonality, with harsh conditions prevailing for many months each year. Consequently, most human activities, including tourism, are limited to quite clearly defined parts of the year.
+Tourists are drawn to these regions by their natural landscape beauty and the unique cultures of their indigenous people. And poor governments in these isolated areas have welcomed the new breed of ‘adventure tourist’. Grateful for the hard currency they bring. For several years now, tourism has been the prime source of foreign exchange in Nepal and Bhutan. Tourism is also a key element in the economies of Arctic zones such as Lapland and Alaska and in desert areas such as Ayers Rock in Australia and Arizona’s Monument Valley.
+B
+Once a location is established as a main tourist destination, the effects on the local community are profound. When hill-farmers, for example, can make more money in a few weeks working as porters for foreign trekkers than they can in a year working in their fields, it is not surprising that many of them give up their farm-work, which is thus left to other members of the family. In some hill-regions, this had led to a serious decline in farm output and a change in the local diet, because there is insufficient labour to maintain terraces and irrigation systems and tend to crops. The result has been that many people in these regions have turned to outside supplies of rice and other foods.
+In Arctic and desert societies, year-round survival has traditionally depended on hunting animals and fish and collecting fruit over a relatively short season. However, as some inhabitants become involved in tourism, they no longer have time to collect wild food; this has led to increasing dependence on bought food and stores. Tourism is not always the culprit behind such changes. All kinds of wage labour, or government handouts, tend to undermine traditional survival systems. Whatever the cause, the dilemma is always the same: what happens if these new, external sources of income dry up?
+The physical impact of visitors is another serious problem associated with the growth in adventure tourism. Much attention has focused on erosion along major trails, but perhaps more important are the deforestation and impacts on water supplies arising from the need to provide tourists with cooked food and hot showers. In both mountains and deserts, slow-growing trees are often the main sources of fuel and water supplies may be limited or vulnerable to degradation through heavy use.
+C
+Stories about the problems of tourism have become legion in the last few years. Yet it does not have to be a problem. Although tourism inevitably affects the region in which it takes place, the costs of these fragile environments and their local cultures can be minimized. Indeed, it can even be a vehicle for reinvigorating local cultures, as has happened with the Sherpas of Nepal’s Khumbu Valley and in some Alpine villages. And a growing number of adventure tourism operates are trying to ensure that their activities benefit the local population and environment over the long term.
+In the Swiss Alps, communities have decided that their future depends on integrating tourism more effectively with the local economy. Local concern about the rising number of second home developments in the Swiss Pays d’Enhaut resulted in limits being imposed on their growth. There has also been a renaissance in communal cheese production in the area, providing the locals with a reliable source of income that does not depend on outside visitors.
+Many of the Arctic tourist destinations have been exploited by outside companies, who employ transient workers and repatriate most of the profits to their home base. But some Arctic communities are now operating tour businesses themselves, thereby ensuring that the benefits accrue locally. For instance, a native corporation in Alaska, employing local people, is running an air tour from Anchorage to Kotzebue, where tourists eat Arctic food, walk on the tundra and watch local musicians and dancers.
+Native people in the desert regions of the American Southwest have followed similar strategies, encouraging tourists to visit their pueblos and reservations to purchase high-quality handicrafts and artwork. The Acoma and San Ildefonso pueblos have established highly profitable pottery businesses, while the Navajo and Hopi groups have been similarly successful with jewellery.
+Too many people living in fragile environments have lost control over their economies, their culture and their environment when tourism has penetrated their homelands. Merely restricting tourism cannot be the solution to the imbalance, because people’s desire to see new places will not just disappear. Instead, communities in fragile environments must achieve greater control over tourism ventures in their regions, in order to balance their needs and aspirations with the demands of tourism. A growing number of communities are demonstrating that, with firm communal decision-making, this is possible. The critical question now is whether this can become the norm, rather than the exception.
+
+Questions 1-3
+Reading Passage 1 has three sections, A-C.
+Choose the correct heading for each section from the list of headings below.
+Write the correct number i-vi in boxes 1-3 on your answer sheet.    
+ 
+1  Section A   1   
+2  Section B   2   
+3  Section C   3   
+I   The expansion of international tourism in recent years
+II   How local communities can balance their own needs with the demands of wilderness tourism
+III   Fragile regions and the reasons for the expansion of tourism there
+IV   Traditional methods of food-supply in fragile regions
+V   Some of the disruptive effects of wilderness tourism
+VI   The economic benefits of mass tourism.
+Questions 4-9
+Do the following statements reflect the opinion of the writer of Reading Passage 1?
+In boxes 4-9 on your answer sheet, write
+YES              if the statement reflects the opinion of the writer
+NO        if the statement contradicts the opinion of the writer
+NOT GIVEN      if it is impossible to say what the writer thinks about this
+4The low financial cost of setting up wilderness tourism makes it attractive to many countries.
+ YES
+ NO
+ NOT GIVEN
+5Deserts, mountains and Arctic regions are examples of environments that are both ecologically and culturally fragile.
+ YES
+ NO
+ NOT GIVEN
+6Wilderness tourism operates throughout the year in fragile areas.
+ YES
+ NO
+ NOT GIVEN
+7The spread of tourism in certain hill-regions has resulted in a fall in the amount of food produced locally.
+ YES
+ NO
+ NOT GIVEN
+8Traditionally food-gathering in desert societies was distributed evenly over the year.
+ YES
+ NO
+ NOT GIVEN
+9Government handouts do more damage than tourism does to traditional patterns of food-gathering.
+ YES
+ NO
+ NOT GIVEN
+Questions 10-13
+Complete the table below.
+Choose ONE WORD from Reading Passage 1 for each answer.
+Write your answers in boxes 10-13 on your answer sheet.
+The positive ways in which some local communities have respond to tourism
+People/Location	Activity
+Swiss Pays d’Enhaut	Revived production of    
+Arctic communities	Operate  business
+Acoma and San Ildefonso	Produce and sell    
+Navajo and Hopi	Produce and sell    
+
+
+C5-Test 4-Passage 2
+Flawed Beauty: the problem with toughened glass
+On 2nd August 1999, a particularly hot day in the town of Cirencester in the UK, a large pane of toughened glass in the roof of a shopping centre at Bishops Walk shattered without warning and fell from its frame. When fragments were analysed by experts at the giant glass manufacturer Pilkington, which had made the pane, they found that minute crystals of nickel sulphide trapped inside the glass had almost certainly caused the failure.
+‘The glass industry is aware of the issue,’ says Brian Waldron, chairman of the standards committee at the Glass and Glazing Federation, a British trade association, and standards development officer at Pilkington. But he insists that cases are few and far between. “It’s a very rare phenomenon,’ he says.
+Others disagree. ‘On average I see about one or two buildings a month suffering from nickel sulphine related failures,’ says Barrie Josie, a consultant engineer involved in the Bishops Walk investigation. Other experts tell of similar experiences. Tony Wilmott of London-based consulting engineers Sandberg, and Simon Armstrong at CladTech Associates in Hampshire both say they know of hundreds of cases. ‘What you hear is only the tip of the iceberg,’ says Trevor Ford, a glass expert at Resolve Engineering in Brisbane, Queensland. He believes the reason is simple: ‘No-one wants bad press,’ Toughened glass is found everywhere, from cars and bus shelters to the windows, walls and roofs of thousands of buildings around the world. It’s easy to see why. This glass has five times the strength of standard glass, and when it does break it shatters into tiny cubes rather than large, razor-sharp shards. Architects love it because large panels can be bolted together to make transparent walls, and turning it into ceilings and floors is almost as easy.
+It is made by heating a sheet of ordinary glass to about 620°C to soften it slightly, allowing its structure to expand, and then cooling it rapidly with jets of cold air. This causes the outer layer of the pane to contract and solidify before the interior. When the interior finally solidifies and shrinks, it exerts a pull on the outer layer that leaves it in permanent compression and produces a tensile force inside the glass. As cracks propagate best in materials under tension, the compressive force on the surface must be overcome before the pane will break, making it more resistant to cracking.
+The problem starts when glass contains nickel sulphine impurities. Trace amounts of nickel and sulphur are usually present in the raw materials used to make glass, and nickel can also be introduced by fragments of nickel alloys falling into the molten glass. As the glass is heated, these atoms react to form tiny crystals of nickel sulphine. Just a tenth of a gram of nickel in the furnace can create up to 50,000 crystals.
+These crystal can exist in two forms: a dense form called the alpha phase, which is stable at high temperatures, and a less dense form called the beta phase, which is stable at room temperatures. The high temperatures used in the toughening process convert all the crystals to the dense, compact alpha form. But the subsequent cooling is so rapid that the crystals don’t have time to change back to the beta phase. This leaves unstable alpha crystal in the glass, primed like a coiled spring, ready to revert to the beta phase without warning.
+When this happens, the crystals expand by up to 4%. And if they are within the central. tensile region of the pane, the stresses this unleashes can shatter the whole sheet. The time that elapses before failure occurs is unpredictable. It could happen just months after manufacture, or decades later, although if the glass is heated-by sunlight, for example – the process is speeded up. Ironically, says Graham Dodd, of consulting engineers Arup in London, the oldest pane of toughened glass known to have failed due to nickel sulphine inclusions was in Pilkington’s glass research building in Lathom, Lancashire. The pane was 27 years old.
+Data showing the scale of the nickel sulphide problem is almost impossible to find. The picture is made more complicated by the fact that these crystals occur in batches. So even if, on average, there is only one inclusion in 7 tonnes of glass, if you experience one nickel sulphide failure in your building, that probably means you’ve got a problem in more than one pane. Josie says that in the last decade he has worked on over 15 buildings with the number of failures into double figures.
+One of the worst examples of this is Waterfront Place, which was completed in 1990. Over the following decade the 40-storey Brisbane block suffered a rash of failures. Eighty panes of its toughened glass shattered due to inclusions before experts were finally called in. John Barry, an expert in nickel sulphide contamination at the University of Queensland, analysed every glass pane in the building. Using a studio camera, a photographer went up in a cradle to take photos of every pane. These were scanned under a modifies microfiche reader for signs of nickel sulphide crystals. ‘We discovered at least another 120 panes with potentially dangerous inclusions which were then replaced,’ says Barry. ‘It was a very expensive and time-consuming process that took around six months to complete.’ Though the project cost A$1.6 million (nearly £700,000), the alternative – re-cladding the entire building – would have cost ten times as much.
+
+Questions 14-17
+Look at the following people and the list of statements below.
+Match each person with the correct statement.
+Write (drag) the correct letter A-H in boxes 14-17 on your answer sheet.
+14  Brian Waldron   14   
+15  Trevor Ford   15   
+16  Graham Dodd   16   
+17  John Barry      17    
+A   suggests that publicity about nickel sulphide failure has been suppressed
+B   regularly sees cases of nickel sulphide failure
+C   closely examined all the glass in one building
+D   was involved with the construction of Bishops Walk
+E   recommended the rebuilding of Waterfront Place
+F   thinks the benefits of toughened glass are exaggerated
+G   claims that nickel sulphide failure is very unusual
+H   refers to the most extreme case of delayed failure
+Questions 18-23
+Complete the summary with the list of words A-P below.
+Write your answers in boxes 18-23 on your answer sheet.
+Toughened Glass
+Toughened glass is favoured by architects because it is much stronger than ordinary glass, and the fragments are not as 18 18 when it breaks. However, it has one disadvantage: it can shatter 19 19 This fault is a result of the manufacturing process. Ordinary glass is first heated, then cooled very 20 20 The outer layer 21 21 before the inner layer, and the tension between the two layers which is created because of this makes the glass stronger. However, if the glass contains nickel sulphide impurities, crystals of nickel sulphide are formed. These are unstable, and can expand suddenly, particularly if the weather is22  22 If this happens, the pane of glass may break. The frequency with which such problems occur is 23 23 by glass experts. Furthermore, the crystals cannot be detected without sophisticated equipment.    
+A   numerous
+B   detected
+C   quickly
+D   agreed
+E   warm
+F   sharp
+G   expands
+H   slowly
+I   unexpectedly
+J   removed
+K   contracts
+L   disputed
+M   cold
+N   moved
+O   small
+P   calculated
+Questions 24-26
+Do the following statements agree with the information given in Reading Passage 2?
+In boxes 24-26 on your answer sheet, write
+YES              if the statement agrees with the information
+FALSE if the statement contradicts the information
+NOT GIVEN      if there is no information on this
+24Little doubt was expressed about the reason for the Bishops Walk accident.
+ TRUE
+ FALSE
+ NOT GIVEN
+25Toughened glass has the same appearance as ordinary glass.
+ TRUE
+ FALSE
+ NOT GIVEN
+26There is plenty of documented evidence about the incidence of nickel sulphide failure.
+ TRUE
+ FALSE
+ NOT GIVEN
+
+
+
+
+
+C5-Test 4-Passage 3
+The effects of light on plant and animal species
+Light is important to organisms for two different reasons. Firstly it is used as a cue for the timing of daily and seasonal rhythms in both plants and animals, and secondly it is used to assist growth in plants.
+Breeding in most organisms occurs during a part of the year only, and so a reliable cue is needed to trigger breeding behaviour. Day length is an excellent cue, because it provides a perfectly predictable pattern of change within the year. In the temperate zone in spring, temperatures fluctuate greatly from day to day, but day length increase steadily by a predictable amount. The seasonal impact of day length on physiological responses is called photoperiodism, and the amount of experimental evidence for this phenomenon is considerable. For example, some species of birds’ breeding can be induced even in midwinter simply by increasing day length artificially (Wolfson 1964). Other examples of photoperiodism occur in plants. A short-day plant flowers when the day is less than a certain critical length. A long-day plant flowers after a certain critical day length is exceeded. In both cases the critical day length differs from species to species. Plants which flower after a period of vegetative growth, regardless of photoperiod, are known as day-neutral plants.
+Breeding seasons in animals such as birds have evolved to occupy the part of the year in which offspring have the greatest chances of survival. Before the breeding season begins, food reserves must be built up to support the energy cost of reproduction, and to provide for young birds both when they are in the nest and after fledging. Thus many temperate-zone birds use the increasing day lengths in spring as a cue to begin the nesting cycle, because this is a point when adequate food resources will be assured.
+The adaptive significance of photoperiodism in plants is also clear. Short-day plants that flower in spring in the temperature zone are adapted to maximising seedling growth during the growing season. Long-day plants are adapted for situations that require fertilization by insects, or a long period of seed ripening. Short-day plants that flower in the autumn in the temperate zone are able to build up food reserves over the growing season and over winter as seeds. Day-neutral plants have an evolutionary advantage when the connection between the favourable period for reproduction and day length is much less certain. For example, desert annuals germinate, flower and seed whenever suitable rainfall occurs, regardless of the day length.
+The breeding season of some plants can be delayed to extraordinary lengths. Bamboos are perennial grasses that remain in a vegetative state for many years and then suddenly flower, fruit and die (Evans 1976). Every bamboo of the species Chusquea abietifolia on the island of Jamaica flowered, set seed and died during 1884. The next generation of bamboo flowered and died between 1916 and 1918, which suggests a vegetative cycle of about 31 years. The climatic trigger for this flowering cycle is not yet known, but the adaptive significance is clear. The simultaneous production of masses of bamboo seeds (in some cases lying 12 to 15 centimeters deep on the ground) is more than all the seed-eating animals can cope with at the time, so that some seed escape being eaten and grow up to form the next generation (Evans 1976).
+The second reason light is important to organisms is that it is essential for photosynthesis. This is the process by which plants use energy from the sun to convert carbon from soil or water into organic material for growth. The rate of photosynthesis in a plant can be measures by calculating the rate of its uptake of carbon. There is a wide range of photosynthetic responses of plants to variations in light intensity. Some plants reach maximal photosynthesis at one-quarter full sunlight, and others, like sugarcane, never reach a maximum, but continue to increase photosynthesis rate as light intensity rises.
+Plants in general can be divided into two groups: shade-tolerant species and shade-intolerant species. This classification is commonly used in forestry and horticulture. Shade-tolerant plants have lower photosynthetic rates and hence have lower growth rates than those of shade-intolerant species. Plant species become adapted to living in a certain kind of habitat, and in the process evolve a series of characteristics that prevent them from occupying other habitats. Grime (1966) suggests that light may be one of the major components directing these adaptations. For example, eastern hemlock seedlings are shade-tolerant. They can survive in the forest understorey under very low light levels because they have a low photosynthetic rate.
+
+
+Questions 27-33
+Do the following statements agree with the information given in Reading Passage 3?
+In boxes 27-33 on your answer sheet, write
+TRUE                 if the statement agrees with the information
+FALSE        if the statement contradicts the information
+NOT GIVEN             if there is no information on this
+27There is plenty of scientific evidence to support photoperiodism.
+ TRUE
+ FALSE
+ NOT GIVEN
+28Some types of bird can be encouraged to breed out of season.
+ TRUE
+ FALSE
+ NOT GIVEN
+29Photoperiodism is restricted to certain geographic areas.
+ TRUE
+ FALSE
+ NOT GIVEN
+30Desert annuals are examples of long-day plants.
+ TRUE
+ FALSE
+ NOT GIVEN
+31Bamboos flower several times during their life cycle.
+ TRUE
+ FALSE
+ NOT GIVEN
+32Scientists have yet to determine the cue for Chusquea abietifolia’s seasonal rhythm.
+ TRUE
+ FALSE
+ NOT GIVEN
+33Eastern hemlock is a fast-growing plant.
+ TRUE
+ FALSE
+ NOT GIVEN
+Questions 34-40
+Complete the sentences.
+Choose NO MORE THAN THREE WORDS from the passage for each answer.
+Write your answers in boxes 34-40 on your answer sheet.
+34  Day length is a useful cue for breeding in areas where  are unpredictable.
+35  Plants which do not respond to light levels are referred to as .   
+36  Birds in temperate climates associate longer days with nesting and the availability of  .   
+37  Plants that flower when days are long often depend on  to help them reproduce.
+38  Desert annuals respond to  as a signal for reproduction.
+39  There is no limit to the photosynthetic rate in plants such as .  
+40  Tolerance to shade is one criterion for the  of plants in forestry and horticulture.
+
+
+
