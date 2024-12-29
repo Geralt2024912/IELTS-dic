@@ -222,7 +222,6 @@ document.addEventListener('DOMContentLoaded', () => {
             const wordData = dictionary[variation];
             if (wordData) {
                 foundAny = true;
-                totalFrequency += wordData.frequency || 0;
                 if (wordData.ieltsExamples) {
                     allExamples = allExamples.concat(
                         wordData.ieltsExamples.map(ex => ({
@@ -233,6 +232,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             }
         });
+
+        // Remove duplicates first
+        const uniqueExamples = Array.from(new Set(allExamples.map(ex => JSON.stringify(ex))))
+            .map(ex => JSON.parse(ex));
+
+        // Count total frequency based on unique examples
+        totalFrequency = uniqueExamples.length;
 
         if (!foundAny) {
             alert('Word not found in our database ❌');
