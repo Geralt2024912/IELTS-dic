@@ -168,44 +168,68 @@ document.addEventListener('DOMContentLoaded', () => {
         const variations = new Set([word.toLowerCase()]);
         const base = word.toLowerCase();
 
+        // Common word form patterns
+        const patterns = {
+            // verb -> noun
+            'ify': 'ification',
+            'ate': 'ation',
+
+            // noun -> verb
+            'ification': 'ify',
+            'ation': 'ate'
+        };
+
+        // Check for each pattern
+        for (const [suffix, replacement] of Object.entries(patterns)) {
+            if (base.endsWith(suffix)) {
+                const stem = base.slice(0, -suffix.length);
+                // Add the converted form
+                variations.add(stem + replacement);
+
+                // Add variations of the converted form
+                if (replacement === 'ification' || replacement === 'ation') {
+                    variations.add(stem + replacement + 's'); // plural
+                } else if (replacement === 'ify' || replacement === 'ate') {
+                    variations.add(stem + replacement + 's');
+                    variations.add(stem + replacement + 'ing');
+                    variations.add(stem + replacement + 'd');
+                    if (replacement === 'ify') {
+                        variations.add(stem + 'ies');
+                    }
+                }
+            }
+        }
+
         // Add basic variations
         if (base.endsWith('ing')) {
-            // remove 'ing' and add base form
             const baseForm = base.slice(0, -3);
             variations.add(baseForm);
             variations.add(baseForm + 's');
-            // for words like 'running' where we double the consonant
-            const altBaseForm = base.slice(0, -4);
-            variations.add(altBaseForm);
-            variations.add(altBaseForm + 's');
+            variations.add(baseForm + 'ed');
         } else if (base.endsWith('ed')) {
-            // remove 'ed' and add base form
             const baseForm = base.slice(0, -2);
             variations.add(baseForm);
             variations.add(baseForm + 's');
             variations.add(baseForm + 'ing');
         } else if (base.endsWith('es')) {
-            // handle words ending in 'es'
             variations.add(base.slice(0, -2));  // base form
             variations.add(base.slice(0, -2) + 'ed');  // past tense
             variations.add(base.slice(0, -2) + 'ing');  // present participle
         } else if (base.endsWith('s')) {
-            // remove 's' for plural and add other forms
             const baseForm = base.slice(0, -1);
             variations.add(baseForm);
             variations.add(baseForm + 'ed');
             variations.add(baseForm + 'ing');
         } else {
-            // Add common variations for base form
             variations.add(base + 's');  // plural
-            variations.add(base + 'es'); // alternative plural for words ending in 'sh'
+            variations.add(base + 'es'); // alternative plural
             variations.add(base + 'ed'); // past tense
             variations.add(base + 'ing'); // present participle
+        }
 
-            // Handle words ending in 'e'
-            if (base.endsWith('e')) {
-                variations.add(base.slice(0, -1) + 'ing');
-            }
+        // Handle words ending in 'e'
+        if (base.endsWith('e')) {
+            variations.add(base.slice(0, -1) + 'ing');
         }
 
         return Array.from(variations);
