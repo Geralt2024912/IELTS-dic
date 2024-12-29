@@ -274,7 +274,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 .map(ex => JSON.parse(ex));
 
             const examplesContainer = document.getElementById('ieltsExamples');
-            examplesContainer.innerHTML = uniqueExamples.map(example => {
+            examplesContainer.innerHTML = uniqueExamples.map((example, index) => {
                 const sourceDisplay = example.title ?
                     `${example.source} - ${example.title}` :
                     example.source;
@@ -282,6 +282,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 return `
                     <div class="example-item">
                         <div class="source-info">
+                            <div class="example-number">${index + 1}</div>
                             <div class="source-tag">${sourceDisplay}</div>
                             <div class="word-variation-tag">Form: ${example.wordVariation}</div>
                         </div>
