@@ -80,10 +80,10 @@ document.addEventListener('DOMContentLoaded', () => {
             let wordFrequency = {};
             let currentSource = '';
             let currentPassage = '';
-            
+
             for (let i = 0; i < lines.length; i++) {
                 const line = lines[i].trim();
-                
+
                 if (!line) continue;
 
                 // Check if line is a source header (e.g., "C5-Test 3-Passage 3")
@@ -103,23 +103,23 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (isEnglish) {
                     // Split into sentences
                     const sentences = line.match(/[^.!?]+[.!?]+/g) || [line];
-                    
+
                     sentences.forEach(sentence => {
                         const words = sentence.toLowerCase().match(/\b[a-zA-Z]+\b/g);
                         if (words) {
                             words.forEach(word => {
                                 if (word.length > 2) { // Skip very short words
                                     wordFrequency[word] = (wordFrequency[word] || 0) + 1;
-                                    
+
                                     if (!dictionary[word]) {
                                         dictionary[word] = {
                                             frequency: 0,
                                             ieltsExamples: []
                                         };
                                     }
-                                    
+
                                     dictionary[word].frequency = wordFrequency[word];
-                                    
+
                                     // Add the sentence as an example with source
                                     const example = {
                                         english: sentence.trim(),
@@ -164,9 +164,62 @@ document.addEventListener('DOMContentLoaded', () => {
         return filledStar.repeat(stars) + emptyStar.repeat(5 - stars);
     }
 
+    function getWordVariations(word) {
+        const variations = new Set([word.toLowerCase()]);
+        const base = word.toLowerCase();
+
+        // Add basic variations
+        if (base.endsWith('ing')) {
+            // remove 'ing' and add base form
+            variations.add(base.slice(0, -3));
+            // for words like 'running' where we double the consonant
+            variations.add(base.slice(0, -4));
+        } else if (base.endsWith('ed')) {
+            // remove 'ed' and add base form
+            variations.add(base.slice(0, -2));
+            // for words ending in 'e' like 'loved'
+            variations.add(base.slice(0, -1));
+        } else if (base.endsWith('s')) {
+            // remove 's' for plural
+            variations.add(base.slice(0, -1));
+        } else {
+            // Add common variations
+            variations.add(base + 's');  // plural
+            variations.add(base + 'ed'); // past tense
+            variations.add(base + 'ing'); // present participle
+            // Handle words ending in 'e'
+            if (base.endsWith('e')) {
+                variations.add(base.slice(0, -1) + 'ing');
+            }
+        }
+
+        return Array.from(variations);
+    }
+
     function showResult(word) {
-        const wordData = dictionary[word.toLowerCase()];
-        if (!wordData || wordData.ieltsExamples.length === 0) {
+        const variations = getWordVariations(word);
+        let allExamples = [];
+        let totalFrequency = 0;
+        let foundAny = false;
+
+        // Check each variation in the dictionary
+        variations.forEach(variation => {
+            const wordData = dictionary[variation];
+            if (wordData) {
+                foundAny = true;
+                totalFrequency += wordData.frequency || 0;
+                if (wordData.ieltsExamples) {
+                    allExamples = allExamples.concat(
+                        wordData.ieltsExamples.map(ex => ({
+                            ...ex,
+                            wordVariation: variation
+                        }))
+                    );
+                }
+            }
+        });
+
+        if (!foundAny) {
             alert('Word not found in our database ❌');
             return;
         }
@@ -179,40 +232,45 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         document.getElementById('ieltsExamples').innerHTML = '';
 
-        // First show loading state
+        // Show loading state
         document.getElementById('wordTitle').textContent = `${word} (正在翻译...) 📝`;
 
         // Get word translation
         getWordTranslation(word).then(translation => {
             // Update word title with translation
             document.getElementById('wordTitle').textContent = `${word} (${translation}) 📝`;
-            
+
             // Add frequency information with stars
-            const frequency = wordData.frequency;
-            const stars = getStarRating(frequency);
+            const stars = getStarRating(Math.min(5, totalFrequency));
+            const foundVariations = variations.filter(v => dictionary[v]);
             const frequencyHtml = `
                 <div class="frequency-badge">
                     <div class="frequency-stars">${stars}</div>
-                    <div class="frequency-count">Found ${frequency} time${frequency > 1 ? 's' : ''}</div>
+                    <div class="frequency-count">Found ${totalFrequency} time${totalFrequency > 1 ? 's' : ''}</div>
+                    <div class="word-variations">
+                        Word forms: ${foundVariations.join(', ')}
+                    </div>
                 </div>
             `;
             document.getElementById('wordTitle').insertAdjacentHTML('afterend', frequencyHtml);
 
-            const uniqueExamples = Array.from(new Set(wordData.ieltsExamples.map(ex => JSON.stringify(ex))))
+            // Remove duplicates and sort examples
+            const uniqueExamples = Array.from(new Set(allExamples.map(ex => JSON.stringify(ex))))
                 .map(ex => JSON.parse(ex));
 
             const examplesContainer = document.getElementById('ieltsExamples');
             examplesContainer.innerHTML = uniqueExamples.map(example => {
-                const sourceDisplay = example.title ? 
-                    `${example.source} - ${example.title}` : 
+                const sourceDisplay = example.title ?
+                    `${example.source} - ${example.title}` :
                     example.source;
-                
+
                 return `
                     <div class="example-item">
                         <div class="source-info">
                             <div class="source-tag">${sourceDisplay}</div>
+                            <div class="word-variation-tag">Form: ${example.wordVariation}</div>
                         </div>
-                        <p>${highlightWord(example.english, word)}</p>
+                        <p>${highlightWord(example.english, example.wordVariation)}</p>
                         <button class="translation-toggle">🔄 显示翻译</button>
                         <div class="translation" style="display: none;">
                             <p>Loading translation...</p>

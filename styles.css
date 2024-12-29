@@ -117,7 +117,9 @@ h3 {
     margin: 1.5rem 0 1rem;
 }
 
-.examples, #commonPhrases, #idioms {
+.examples,
+#commonPhrases,
+#idioms {
     background: var(--apple-light-gray);
     padding: 1rem;
     border-radius: 10px;
@@ -234,6 +236,7 @@ h3 {
         opacity: 0;
         transform: translateY(-5px);
     }
+
     to {
         opacity: 1;
         transform: translateY(0);
@@ -245,6 +248,7 @@ h3 {
         opacity: 0;
         transform: translateY(-10px);
     }
+
     to {
         opacity: 1;
         transform: translateY(0);
@@ -255,16 +259,31 @@ h3 {
     .container {
         padding: 1rem;
     }
-    
+
     h1 {
         font-size: 2rem;
     }
-    
+
     .search-container {
         flex-direction: column;
     }
-    
+
     .search-button {
         width: 100%;
     }
+}
+
+.word-variations {
+    font-size: 0.9rem;
+    margin-top: 8px;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.word-variation-tag {
+    background: #5856D6;
+    color: white;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    margin-left: 8px;
 }
