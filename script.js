@@ -277,61 +277,52 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         document.getElementById('ieltsExamples').innerHTML = '';
 
-        // Show loading state
-        document.getElementById('wordTitle').textContent = `${word} (正在翻译...) 📝`;
+        // Set title directly without translation
+        document.getElementById('wordTitle').textContent = `${word}`;
 
-        // Get word translation
-        getWordTranslation(word).then(translation => {
-            // Update word title with translation
-            document.getElementById('wordTitle').textContent = `${word} (${translation}) 📝`;
+        // Add frequency information with stars
+        const stars = getStarRating(Math.min(5, totalFrequency));
+        const foundVariations = variations.filter(v => dictionary[v]);
+        const frequencyHtml = `
+            <div class="frequency-badge">
+                <div class="frequency-stars">${stars}</div>
+                <div class="frequency-count">Found ${totalFrequency} time${totalFrequency > 1 ? 's' : ''}</div>
+                <div class="word-variations">
+                    Word forms: ${foundVariations.join(', ')}
+                </div>
+            </div>
+        `;
+        document.getElementById('wordTitle').insertAdjacentHTML('afterend', frequencyHtml);
 
-            // Add frequency information with stars
-            const stars = getStarRating(Math.min(5, totalFrequency));
-            const foundVariations = variations.filter(v => dictionary[v]);
-            const frequencyHtml = `
-                <div class="frequency-badge">
-                    <div class="frequency-stars">${stars}</div>
-                    <div class="frequency-count">Found ${totalFrequency} time${totalFrequency > 1 ? 's' : ''}</div>
-                    <div class="word-variations">
-                        Word forms: ${foundVariations.join(', ')}
+        // Display examples...
+        const examplesContainer = document.getElementById('ieltsExamples');
+        examplesContainer.innerHTML = uniqueExamples.map((example, index) => {
+            const sourceDisplay = example.title ?
+                `${example.source} - ${example.title}` :
+                example.source;
+
+            return `
+                <div class="example-item">
+                    <div class="source-info">
+                        <div class="example-number">${index + 1}</div>
+                        <div class="source-tag">${sourceDisplay}</div>
+                        <div class="word-variation-tag">Form: ${example.wordVariation}</div>
+                    </div>
+                    <p>${highlightWord(example.english, example.wordVariation)}</p>
+                    <button class="translation-toggle">🔄 显示翻译</button>
+                    <div class="translation" style="display: none;">
+                        <p>Loading translation...</p>
                     </div>
                 </div>
             `;
-            document.getElementById('wordTitle').insertAdjacentHTML('afterend', frequencyHtml);
+        }).join('');
 
-            // Remove duplicates and sort examples
-            const uniqueExamples = Array.from(new Set(allExamples.map(ex => JSON.stringify(ex))))
-                .map(ex => JSON.parse(ex));
-
-            const examplesContainer = document.getElementById('ieltsExamples');
-            examplesContainer.innerHTML = uniqueExamples.map((example, index) => {
-                const sourceDisplay = example.title ?
-                    `${example.source} - ${example.title}` :
-                    example.source;
-
-                return `
-                    <div class="example-item">
-                        <div class="source-info">
-                            <div class="example-number">${index + 1}</div>
-                            <div class="source-tag">${sourceDisplay}</div>
-                            <div class="word-variation-tag">Form: ${example.wordVariation}</div>
-                        </div>
-                        <p>${highlightWord(example.english, example.wordVariation)}</p>
-                        <button class="translation-toggle">🔄 显示翻译</button>
-                        <div class="translation" style="display: none;">
-                            <p>Loading translation...</p>
-                        </div>
-                    </div>
-                `;
-            }).join('');
-
-            // Add click event listeners to translation toggle buttons
-            document.querySelectorAll('.translation-toggle').forEach(button => {
-                button.addEventListener('click', toggleTranslation);
-            });
-
-            resultContainer.classList.add('visible');
+        // Add click event listeners to translation toggle buttons
+        document.querySelectorAll('.translation-toggle').forEach(button => {
+            button.addEventListener('click', toggleTranslation);
         });
+
+        resultContainer.classList.add('visible');
     }
 
     searchButton.addEventListener('click', () => {
