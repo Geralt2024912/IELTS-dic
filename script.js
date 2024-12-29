@@ -235,8 +235,15 @@ document.addEventListener('DOMContentLoaded', () => {
         return Array.from(variations);
     }
 
-    function showResult(word) {
-        const variations = getWordVariations(word);
+    function showResult(input) {
+        // First, check if input is a sentence/phrase (contains spaces)
+        if (input.includes(' ')) {
+            showSentenceResult(input);
+            return;
+        }
+
+        // Original single word search logic
+        const variations = getWordVariations(input);
         let allExamples = [];
         let totalFrequency = 0;
         let foundAny = false;
@@ -278,7 +285,7 @@ document.addEventListener('DOMContentLoaded', () => {
         document.getElementById('ieltsExamples').innerHTML = '';
 
         // Set title directly without translation
-        document.getElementById('wordTitle').textContent = `${word}`;
+        document.getElementById('wordTitle').textContent = `${input}`;
 
         // Add frequency information with stars
         const stars = getStarRating(Math.min(5, totalFrequency));
@@ -323,6 +330,95 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         resultContainer.classList.add('visible');
+    }
+
+    // Add this new function for sentence/phrase search
+    function showSentenceResult(sentence) {
+        const words = sentence.toLowerCase().match(/\b[a-zA-Z]+\b/g) || [];
+        let allExamples = [];
+        let foundAny = false;
+
+        // Search for each word in the sentence
+        words.forEach(word => {
+            if (word.length > 2 && dictionary[word]) {  // Skip very short words
+                foundAny = true;
+                dictionary[word].ieltsExamples.forEach(example => {
+                    if (example.english.toLowerCase().includes(sentence.toLowerCase())) {
+                        allExamples.push({
+                            ...example,
+                            searchedPhrase: sentence
+                        });
+                    }
+                });
+            }
+        });
+
+        if (!foundAny || allExamples.length === 0) {
+            alert('Phrase not found in our database ❌');
+            return;
+        }
+
+        // Clear previous results
+        document.getElementById('wordTitle').textContent = '';
+        const oldFrequencyBadge = document.querySelector('.frequency-badge');
+        if (oldFrequencyBadge) {
+            oldFrequencyBadge.remove();
+        }
+        document.getElementById('ieltsExamples').innerHTML = '';
+
+        // Set title as the phrase
+        document.getElementById('wordTitle').textContent = sentence;
+
+        // Add frequency information
+        const frequencyHtml = `
+            <div class="frequency-badge">
+                <div class="frequency-stars">${getStarRating(Math.min(5, allExamples.length))}</div>
+                <div class="frequency-count">Found ${allExamples.length} time${allExamples.length > 1 ? 's' : ''}</div>
+                <div class="word-variations">
+                    Showing examples containing this phrase
+                </div>
+            </div>
+        `;
+        document.getElementById('wordTitle').insertAdjacentHTML('afterend', frequencyHtml);
+
+        // Remove duplicates
+        const uniqueExamples = Array.from(new Set(allExamples.map(ex => JSON.stringify(ex))))
+            .map(ex => JSON.parse(ex));
+
+        // Display examples
+        const examplesContainer = document.getElementById('ieltsExamples');
+        examplesContainer.innerHTML = uniqueExamples.map((example, index) => {
+            const sourceDisplay = example.title ?
+                `${example.source} - ${example.title}` :
+                example.source;
+
+            return `
+                <div class="example-item">
+                    <div class="source-info">
+                        <div class="example-number">${index + 1}</div>
+                        <div class="source-tag">${sourceDisplay}</div>
+                    </div>
+                    <p>${highlightPhrase(example.english, example.searchedPhrase)}</p>
+                    <button class="translation-toggle">🔄 显示翻译</button>
+                    <div class="translation" style="display: none;">
+                        <p>Loading translation...</p>
+                    </div>
+                </div>
+            `;
+        }).join('');
+
+        // Add click event listeners to translation toggle buttons
+        document.querySelectorAll('.translation-toggle').forEach(button => {
+            button.addEventListener('click', toggleTranslation);
+        });
+
+        resultContainer.classList.add('visible');
+    }
+
+    // Add this new helper function to highlight phrases
+    function highlightPhrase(text, phrase) {
+        const regex = new RegExp(phrase.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
+        return text.replace(regex, match => `<span class="highlight">${match}</span>`);
     }
 
     searchButton.addEventListener('click', () => {
