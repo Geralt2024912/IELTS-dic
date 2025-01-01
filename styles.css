@@ -54,9 +54,37 @@ h1 span {
     margin-bottom: 2rem;
 }
 
+.input-wrapper {
+    position: relative;
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+
+.clear-button {
+    position: absolute;
+    right: 10px;
+    background: none;
+    border: none;
+    font-size: 20px;
+    color: var(--apple-gray);
+    cursor: pointer;
+    padding: 5px;
+    display: none;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    line-height: 1;
+}
+
+.clear-button:hover {
+    background-color: rgba(142, 142, 147, 0.1);
+}
+
 .search-input {
     flex: 1;
     padding: 1rem;
+    padding-right: 40px;
     border-radius: 10px;
     border: none;
     background-color: var(--apple-light-gray);

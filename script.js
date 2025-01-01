@@ -436,4 +436,18 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         }
     });
+
+    const clearButton = document.getElementById('clearButton');
+
+    // Show/hide clear button based on input content
+    wordInput.addEventListener('input', () => {
+        clearButton.style.display = wordInput.value ? 'block' : 'none';
+    });
+
+    // Clear input when x button is clicked
+    clearButton.addEventListener('click', () => {
+        wordInput.value = '';
+        clearButton.style.display = 'none';
+        wordInput.focus();
+    });
 });
