@@ -302,11 +302,23 @@ h3 {
 
     .source-info {
         flex-direction: column;
-        align-items: flex-start;
-        gap: 6px;
+        align-items: center;
+        gap: 8px;
+        width: 100%;
     }
 
-    .source-tag,
+    .source-tag {
+        display: block;
+        width: 95%;
+        background: #34C759;
+        color: white;
+        padding: 8px 12px;
+        border-radius: 6px;
+        font-size: 12px;
+        font-weight: 500;
+        letter-spacing: 0.5px;
+    }
+
     .word-variation-tag,
     .example-number {
         width: 100%;
@@ -319,6 +331,7 @@ h3 {
         background: rgba(242, 242, 247, 0.5);
         border-radius: 12px;
         margin-bottom: 15px;
+        width: 100%;
     }
 
     .example-item p {
