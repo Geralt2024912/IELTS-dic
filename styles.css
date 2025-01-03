@@ -332,6 +332,12 @@ h3 {
         padding: 4px;
         text-align: center;
     }
+
+    .word-variation-tag {
+        width: auto;
+        display: inline-flex;
+        padding: 2px 6px;
+    }
 }
 
 .word-variations {
@@ -343,10 +349,13 @@ h3 {
 .word-variation-tag {
     background: #5856D6;
     color: white;
-    padding: 2px 8px;
+    padding: 2px 6px;
     border-radius: 4px;
     font-size: 0.8rem;
     margin-left: 8px;
+    display: inline-flex;
+    align-items: center;
+    white-space: nowrap;
 }
 
 .example-number {
