@@ -64,21 +64,26 @@ h1 span {
 .clear-button {
     position: absolute;
     right: 10px;
-    background: none;
+    background: var(--apple-light-gray);
     border: none;
-    font-size: 20px;
+    font-size: 18px;
     color: var(--apple-gray);
     cursor: pointer;
-    padding: 5px;
+    padding: 0;
     display: none;
     border-radius: 50%;
-    width: 24px;
-    height: 24px;
+    width: 20px;
+    height: 20px;
     line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
 }
 
 .clear-button:hover {
-    background-color: rgba(142, 142, 147, 0.1);
+    background-color: var(--apple-gray);
+    color: white;
 }
 
 .search-input {
