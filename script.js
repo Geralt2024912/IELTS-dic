@@ -74,7 +74,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Fetch and parse the IELTS bank file
     fetch('IELTS-bank.txt')
-        .then(response => response.text())
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.text();
+        })
         .then(data => {
             const lines = data.split('\n');
             let wordFrequency = {};
@@ -150,7 +155,10 @@ document.addEventListener('DOMContentLoaded', () => {
             }
             console.log('Dictionary created:', dictionary);
         })
-        .catch(error => console.error('Error loading IELTS bank:', error));
+        .catch(error => {
+            console.error('Error loading IELTS bank:', error);
+            // Add some user feedback here if needed
+        });
 
     function highlightWord(text, word) {
         const regex = new RegExp(`\\b${word}\\b`, 'gi');
@@ -449,5 +457,25 @@ document.addEventListener('DOMContentLoaded', () => {
         wordInput.value = '';
         clearButton.style.display = 'none';
         wordInput.focus();
+    });
+
+    // Back to Top functionality
+    const backToTopButton = document.getElementById('backToTop');
+
+    // Show button when scrolling down
+    window.addEventListener('scroll', () => {
+        if (window.scrollY > 300) {
+            backToTopButton.classList.add('visible');
+        } else {
+            backToTopButton.classList.remove('visible');
+        }
+    });
+
+    // Smooth scroll to top when clicked
+    backToTopButton.addEventListener('click', () => {
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        });
     });
 });

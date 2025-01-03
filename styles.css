@@ -397,3 +397,46 @@ h3 {
     align-items: center;
     gap: 10px;
 }
+
+.back-to-top {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background: white;
+    color: white;
+    width: 44px;
+    height: 44px;
+    border-radius: 22px;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border: none;
+    transition: all 0.3s ease;
+    z-index: 1000;
+    font-size: 24px;
+    padding: 0;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.back-to-top:hover {
+    transform: translateY(-2px);
+    background: white;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.back-to-top.visible {
+    display: flex;
+    animation: fadeIn 0.3s ease;
+}
+
+/* Add mobile styles */
+@media (max-width: 768px) {
+    .back-to-top {
+        bottom: 20px;
+        right: 20px;
+        width: 40px;
+        height: 40px;
+        font-size: 22px;
+    }
+}
