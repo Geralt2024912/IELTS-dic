@@ -324,6 +324,14 @@ h3 {
     .example-item p {
         margin: 12px 0;
     }
+
+    .example-number {
+        width: auto;
+        min-width: 24px;
+        height: 24px;
+        padding: 4px;
+        text-align: center;
+    }
 }
 
 .word-variations {
@@ -344,11 +352,15 @@ h3 {
 .example-number {
     background: #FF9500;
     color: white;
-    padding: 4px 10px;
+    padding: 4px;
     border-radius: 6px;
     font-size: 12px;
     font-weight: 600;
     min-width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     text-align: center;
 }
 
